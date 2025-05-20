@@ -2,7 +2,8 @@
     "name": "@minisquare/twist",
     "version": "1.0.0",
     "description": "I'm just figuring this npm thing out.",
-    "main": "index.js",
+    "main": "dist/index.js",
+    "types": "dist/index.d.js",
     "scripts": {
         "build": "tsc",
         "prepare": "npm run build"
